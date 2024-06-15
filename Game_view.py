@@ -35,6 +35,8 @@ class MenuView(arcade.View):
         instructions_view = InstructionView()
         self.window.show_view(instructions_view)
 
+    #asdfasdlfj asdfasdf
+
 
 class InstructionView(arcade.View):
     def on_show_view(self):
