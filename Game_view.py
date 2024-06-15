@@ -36,6 +36,7 @@ class MenuView(arcade.View):
         self.window.show_view(instructions_view)
 
     #asdfasdlfj asdfasdf
+    # asdfasdfasdf
 
 
 class InstructionView(arcade.View):
